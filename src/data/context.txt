@@ -1,0 +1,683 @@
+COSTCO WHOLESALE CORPORATION
+CONSOLIDATED STATEMENTS OF INCOME
+(amounts in millions, except per share data)
+52 Weeks Ended 53 Weeks Ended 52 Weeks Ended
+September 1,
+2024
+September 3,
+2023
+August 28,
+2022
+REVENUE
+Net sales $ 249,625 $ 237,710 $ 222,730
+Membership fees 4,828 4,580 4,224
+Total revenue 254,453 242,290 226,954
+OPERATING EXPENSES
+Merchandise costs 222,358 212,586 199,382
+Selling, general and administrative 22,810 21,590 19,779
+Operating income 9,285 8,114 7,793
+OTHER INCOME (EXPENSE)
+Interest expense (169) (160) (158)
+Interest income and other, net 624 533 205
+INCOME BEFORE INCOME TAXES 9,740 8,487 7,840
+Provision for income taxes 2,373 2,195 1,925
+Net income including noncontrolling interests 7,367 6,292 5,915
+Net income attributable to noncontrolling interests —
+—
+(71)
+NET INCOME ATTRIBUTABLE TO COSTCO $ 7,367 $ 6,292 $ 5,844
+NET INCOME PER COMMON SHARE ATTRIBUTABLE TO
+COSTCO:
+Basic $ 16.59 $ 14.18 $ 13.17
+Diluted $ 16.56 $ 14.16 $ 13.14
+Shares used in calculation (000’s)
+Basic 443,914 443,854 443,651
+Diluted 444,759 444,452 444,757COSTCO WHOLESALE CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(amounts in millions, except par value and share data)
+September 1,
+2024
+September 3,
+2023
+ASSETS
+CURRENT ASSETS
+Cash and cash equivalents $ 9,906 $ 13,700
+Short-term investments 1,238 1,534
+Receivables, net 2,721 2,285
+Merchandise inventories 18,647 16,651
+Other current assets 1,734 1,709
+Total current assets 34,246 35,879
+OTHER ASSETS
+Property and equipment, net 29,032 26,684
+Operating lease right-of-use assets 2,617 2,713
+Other long-term assets 3,936 3,718
+TOTAL ASSETS $ 69,831 $ 68,994
+LIABILITIES AND EQUITY
+CURRENT LIABILITIES
+Accounts payable $ 19,421 $ 17,483
+Accrued salaries and benefits 4,794 4,278
+Accrued member rewards 2,435 2,150
+Deferred membership fees 2,501 2,337
+Current portion of long-term debt 103 1,081
+Other current liabilities 6,210 6,254
+Total current liabilities 35,464 33,583
+OTHER LIABILITIES
+Long-term debt, excluding current portion 5,794 5,377
+Long-term operating lease liabilities 2,375 2,426
+Other long-term liabilities 2,576 2,550
+TOTAL LIABILITIES 46,209 43,936
+COMMITMENTS AND CONTINGENCIES
+EQUITY
+Preferred stock $0.005 par value; 100,000,000 shares authorized; no shares issued and
+outstanding—
+—
+Common stock $0.005 par value; 900,000,000 shares authorized; 443,126,000 and
+442,793,000 shares issued and outstanding 2 2
+Additional paid-in capital 7,829 7,340
+Accumulated other comprehensive loss (1,828) (1,805)
+Retained earnings 17,619 19,521
+TOTAL EQUITY 23,622 25,058
+TOTAL LIABILITIES AND EQUITY $ 69,831 $ 68,994
+The accompanying notes are an integral part of these consolidated financial statements.
+38
+Table of Contents
+COSTCO WHOLESALE CORPORATION
+CONSOLIDATED STATEMENTS OF EQUITY
+(amounts in millions)
+Common Stock
+Accumulated
+Additional
+Other
+Total Costco
+Shares
+Paid-in
+Comprehensive
+Retained
+Stockholders’
+Noncontrolling
+Total
+(000’s) Amount
+Capital
+Income (Loss)
+Earnings
+Equity
+Interests
+Equity
+BALANCE AT AUGUST 29, 2021 441,825 $ 4 $ 7,031 $ (1,137) $ 11,666 $ 17,564 $ 514 $ 18,078
+Net income —
+—
+—
+—
+5,844 5,844 71 5,915
+Foreign-currency translation
+adjustment and other, net —
+—
+—
+(686) —
+(686) (35) (721)
+Stock-based compensation —
+—
+728
+—
+—
+728
+—
+728
+Release of vested restricted stock
+units (RSUs), including tax
+effects 1,702
+—
+(363) —
+—
+(363) —
+(363)
+Dividend to noncontrolling interest —
+—
+—
+—
+—
+—
+(208) (208)
+Acquisition of noncontrolling
+interest —
+—
+(499) (6) —
+(505) (337) (842)
+Repurchases of common stock (863) —
+(15) —
+(427) (442) —
+(442)
+Cash dividends declared and other —
+(2) 2
+—
+(1,498) (1,498) —
+(1,498)
+BALANCE AT AUGUST 28, 2022 442,664 2 6,884 (1,829) 15,585 20,642 5 20,647
+Net income —
+—
+—
+—
+6,292 6,292
+—
+6,292
+Foreign-currency translation
+adjustment and other, net —
+—
+—
+24
+—
+24
+—
+24
+Stock-based compensation —
+—
+778
+—
+—
+778
+—
+778
+Release of vested RSUs, including
+tax effects 1,470
+—
+(303) —
+—
+(303) —
+(303)
+Repurchases of common stock (1,341) —
+(24) —
+(653) (677) —
+(677)
+Cash dividends declared and other —
+—
+5
+—
+(1,703) (1,698) (5) (1,703)
+BALANCE AT SEPTEMBER 3, 2023 442,793 2 7,340 (1,805) 19,521 25,058
+—
+25,058
+Net income —
+—
+—
+—
+7,367 7,367
+—
+7,367
+Foreign-currency translation
+adjustment and other, net —
+—
+—
+(23) —
+(23) —
+(23)
+Stock-based compensation —
+—
+822
+—
+—
+822
+—
+822
+Release of vested RSUs, including
+tax effects 1,337
+—
+(315) —
+—
+(315) —
+(315)
+Repurchases of common stock (1,004) —
+(18) —
+(680) (698) —
+(698)
+Cash dividends declared —
+—
+—
+—
+(8,589) (8,589) —
+(8,589)
+BALANCE AT SEPTEMBER 1, 2024 443,126 $ 2 $ 7,829 $ (1,828) $ 17,619 $ 23,622 $ —
+$ 23,622COSTCO WHOLESALE CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(amounts in millions)
+52 Weeks Ended 53 Weeks Ended 52 Weeks Ended
+September 1,
+2024
+September 3,
+2023
+August 28,
+2022
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income including noncontrolling interests $ 7,367 $ 6,292 $ 5,915
+Adjustments to reconcile net income including noncontrolling interests to net cash provided by
+operating activities:
+Depreciation and amortization 2,237 2,077 1,900
+Non-cash lease expense 315 412 377
+Stock-based compensation 818 774 724
+Impairment of assets and other non-cash operating activities, net (9) 495 39
+Changes in operating assets and liabilities:
+Merchandise inventories (2,068) 1,228 (4,003)
+Accounts payable 1,938 (382) 1,891
+Other operating assets and liabilities, net 741 172 549
+Net cash provided by operating activities 11,339 11,068 7,392
+CASH FLOWS FROM INVESTING ACTIVITIES
+Purchases of short-term investments (1,470) (1,622) (1,121)
+Maturities and sales of short-term investments 1,790 937 1,145
+Additions to property and equipment (4,710) (4,323) (3,891)
+Other investing activities, net (19) 36 (48)
+Net cash used in investing activities (4,409) (4,972) (3,915)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Repayments of short-term borrowings (920) (935) (6)
+Proceeds from short-term borrowings 928 917 53
+Repayments of long-term debt (1,077) (75) (800)
+Proceeds from issuance of long-term debt 498
+—
+—
+Tax withholdings on stock-based awards (315) (303) (363)
+Repurchases of common stock (700) (676) (439)
+Cash dividend payments (9,041) (1,251) (1,498)
+Financing lease payments and other financing activities, net (137) (291) (180)
+Dividend to noncontrolling interest —
+—
+(208)
+Acquisition of noncontrolling interest —
+—
+(842)
+Net cash used in financing activities (10,764) (2,614) (4,283)
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS 40 15 (249)
+Net change in cash and cash equivalents (3,794) 3,497 (1,055)
+CASH AND CASH EQUIVALENTS BEGINNING OF YEAR 13,700 10,203 11,258
+CASH AND CASH EQUIVALENTS END OF YEAR $ 9,906 $ 13,700 $ 10,203
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Cash paid during the year for:
+Interest Income taxes, net $ 129 $ 125 $ 145
+$ 2,319 $ 2,234 $ 1,940
+SUPPLEMENTAL DISCLOSURE OF NON-CASH ACTIVITIES:
+Cash dividend declared, but not yet paid $ —
+$ 452 $ —
+Capital expenditures included in liabilities $ 203 $ 170 $ 156Note 7—Stock-Based Compensation
+The 2019 Incentive Plan authorized the issuance of 17,500,000 shares (10,000,000 RSUs) of common stock for future grants, plus the
+remaining shares that were available for grant and the future forfeited shares from grants under the previous plan, up to a maximum aggregate
+of 27,800,000 shares (15,885,000 RSUs). The Company issues new shares of common stock upon vesting of RSUs. Shares for vested RSUs
+are generally delivered to participants annually, net of shares withheld for taxes.
+As required by the 2019 Incentive Plan, in conjunction with the 2024 special dividend, the number of shares subject to outstanding RSUs was
+increased on the dividend record date to preserve their value. They were adjusted by multiplying the number of outstanding shares by a factor of
+1.018, representing the ratio of the Nasdaq closing price of $674.62 on December 26, 2023, which was the last trading day immediately prior to
+the ex-dividend date, to the Nasdaq opening price of $662.70 on the ex-dividend date, December 27, 2023. The outstanding RSUs increased by
+approximately 52,000. The adjustment did not result in additional stock-based compensation expense, as the fair value of the awards did not
+change. As further required by the 2019 Incentive Plan, the maximum number of shares issuable under the plan was proportionally adjusted,
+which resulted in an additional 128,000 RSU shares available to be granted.
+Summary of Restricted Stock Unit Activity
+At the end of 2024, 7,278,000 shares were available to be granted as RSUs, and the following awards, adjusted for the effects of the special
+dividend, were outstanding:
+• 2,677,000 time-based RSUs, which vest upon continued employment or service over specified periods of time; and
+• 122,000 performance-based RSUs, of which 95,000 were granted to executive officers subject to the determination of the attainment of
+performance targets for 2024, which occurred in September 2024. At that time, depending upon long-service terms, at least 33% of the
+units vested. The remaining awards vest upon continued employment over specified periods of time. Please refer to Note 1 for
+accelerated vesting requirements.
+54
+Table of Contents
+The following table summarizes RSU transactions during 2024:
+Number of
+Weighted-Average
+Units
+Grant Date Fair
+(in 000’s)
+Value
+Outstanding at the end of 2023 3,045 $ 405.63
+Granted 1,677 547.26
+Vested and delivered (1,895) 432.40
+Forfeited (80) 457.54
+Special cash dividend 52 N/A
+Outstanding at the end of 2024 2,799 $ 463.24
+The weighted-average grant date fair value of RSUs granted was $547.26, $471.47, and $476.06 in 2024, 2023, and 2022. The remaining
+unrecognized compensation cost related to non-vested RSUs at the end of 2024 was $848 and the weighted-average period of time over which
+this cost will be recognized is 1.6 years. Included in the outstanding balance at the end of 2024 were approximately 908,000 RSUs vested but
+not yet delivered.
+Summary of Stock-Based Compensation
+The following table summarizes stock-based compensation expense and the related tax benefits:
+2024 2023 2022
+Stock-based compensation expense $ 818 $ 774 $ 724
+Less recognized income tax benefit 173 163 154
+Stock-based compensation expense, net $ 645 $ 611 $ 570Note 5—Leases
+The tables below present information regarding the Company's lease assets and liabilities.
+2024 2023
+Assets
+Operating lease right-of-use assets $ 2,617 $ 2,713
+(1)
+Finance lease assets 1,433 1,325
+Total lease assets $ 4,050 $ 4,038
+Liabilities
+Current
+Long-term
+(2)
+Operating lease liabilities $ 179 $ 220
+(2)
+Finance lease liabilities 147 129
+Operating lease liabilities 2,375 2,426
+(3)
+Finance lease liabilities 1,351 1,303
+Total lease liabilities $ 4,052 $ 4,078
+_______________
+(1) (2) (3) Included in other long-term assets in the consolidated balance sheets.
+Included in other current liabilities in the consolidated balance sheets.
+Included in other long-term liabilities in the consolidated balance sheets.
+2024 2023
+Weighted-average remaining lease term (years)
+Operating leases 19 20
+Finance leases 23 24
+Weighted-average discount rate
+Operating leases 2.67 % 2.47 %
+Finance leases 4.59 % 4.47 %
+52
+Table of Contents
+2024 2023 2022
+Operating lease costs (1)
+$ 284 $ 309 $ 297
+Finance lease costs:
+Amortization of lease assets (1)
+97 169 128
+Interest on lease liabilities (2)
+58 54 Variable lease costs (1)
+163 160 157
+Total lease costs $ 602 $ 692 $ 627
+The components of lease expense, excluding short-term lease costs and sublease income (which were immaterial), were as follows:
+45
+_______________
+(1) (2) Included in selling, general and administrative expenses and merchandise costs in the consolidated statements of income.
+Included in interest expense and merchandise costs in the consolidated statements of income.
+Supplemental cash flow information related to leases was as follows:
+2024 2023 2022
+Cash paid for amounts included in the measurement of lease liabilities:
+Operating cash flows — operating leases $ 274 $ 287 $ 277
+Operating cash flows — finance leases 58 54 45
+Financing cash flows — finance leases 136 291 176
+Operating lease assets obtained in exchange for new or modified leases 125 202 Finance lease assets obtained in exchange for new or modified leases 200 100 231
+794
+As of September 1, 2024, future minimum payments during the next five fiscal years and thereafter are as follows:
+_______________
+(1) (2) Operating lease payments have not been reduced by expected future sublease income of $98.
+Excludes $1,080 of lease payments for leases that have been signed but not commenced.
+Note 6—Equity
+Dividends
+(1)
+Operating Leases Finance Leases
+2025 $ 242 $ 204
+2026 247 128
+2027 226 120
+2028 209 122
+2029 183 109
+Thereafter 2,205 1,664
+Total (2)
+3,312 2,347
+Less amount representing interest 758 849
+Present value of lease liabilities $ 2,554 $ 1,498Note 4—Debt
+Short-Term Borrowings
+The Company maintains various short-term bank credit facilities, with a borrowing capacity of $1,198 and $1,234, in 2024 and 2023. Short-term
+borrowings outstanding were immaterial at the end of 2024 and 2023.
+Long-Term Debt
+The Company's long-term debt consists primarily of Senior Notes, described below. The Company at its option may redeem the Senior Notes at
+any time, in whole or in part, at a redemption price plus accrued interest. The redemption price is equal to the greater of 100% of the principal
+amount or the sum of the present value of the remaining scheduled payments of principal and interest to maturity. Additionally, upon certain
+events, a holder has the right to require a repurchase at a price of 101% of the principal amount plus accrued and unpaid interest. Interest on all
+outstanding long-term debt is payable semi-annually. The estimated fair value of Senior Notes is valued using Level 2 inputs.
+Other long-term debt consists of Guaranteed Senior Notes issued by the Company's Japanese subsidiary, valued using Level 3 inputs. In
+November 2023, the Company’s Japan subsidiary issued four Guaranteed Senior Notes, totaling approximately $500, at fixed interest rates
+ranging from 1.400% to 2.120%. Interest is payable semi-annually, and maturity dates range from November 7, 2033, to November 7, 2043. In
+July 2024, the Japanese subsidiary repaid $77 of its Guaranteed Senior Notes.
+On May 18, 2024, the Company paid the $1,000 outstanding principal balance and interest on the 2.750% Senior Notes using cash and cash
+equivalents and short-term investments.
+At the end of 2024 and 2023, the fair value of the Company's long-term debt, including the current portion, was approximately $5,412 and
+$5,738. The carrying value of long-term debt consisted of the following:
+2.750% Senior Notes due May 2024 3.000% Senior Notes due May 2027 1.375% Senior Notes due June 2027 1.600% Senior Notes due April 2030 1.750% Senior Notes due April 2032 Other long-term debt Total long-term debt Less current portion (1)
+2024 2023
+$ —
+$ 1,000
+1,000 1,000
+1,250 1,250
+1,750 1,750
+1,000 1,000
+919 484
+5,919 6,484
+Less unamortized debt discounts and issuance costs 22 26
+103 1,081
+Long-term debt, excluding current portion $ 5,794 $ 5,377
+_____________
+(1) Net of unamortized debt discounts and issuance costs.
+51
+Table of Contents
+Maturities of long-term debt during the next five fiscal years and thereafter are as follows:
+2025 $ 103
+2026 76
+2027 2,250
+2028 —
+2029 150
+Thereafter 3,340
+Total $ 5,919Costco Stock Price: $940Beta: 0.79Cost of Debt: 6%10Y Treasury: 4.617%Assume Market Return is 11%Membership:
+Our members may utilize their memberships at all of our warehouses and e-commerce sites. Gold Star memberships are available to individuals;
+Business memberships are limited to businesses, including individuals with a business license, retail sales license, or comparable document.
+Business members may add additional cardholders (affiliates), to which the same annual fee applies. Affiliates are not available for Gold Star
+members. During fiscal 2024, our annual fee for these memberships was $60 in the U.S. and varies in other countries. All paid memberships
+include a free household card.
+Paid members (except affiliates) were eligible to upgrade to an Executive membership in the U.S., for an additional annual fee of $60. Executive
+memberships are also available in Canada, Mexico, the U.K., Japan, Korea, Taiwan, and Australia, for which the additional fee varies. Executive
+members earn a 2% reward on qualified purchases (generally up to a maximum reward of $1,000 per year), redeemable at Costco warehouses.
+The sales penetration of Executive members represented approximately 73.3% of worldwide net sales in 2024.
+Our member renewal rate was 92.9% in the U.S. and Canada and 90.5% worldwide at the end of 2024. The majority of members renew within
+six months following their renewal date. Our renewal rate, which excludes affiliates of Business members, is a trailing calculation that captures
+renewals during the period seven to eighteen months prior to the reporting date. Our membership counts include active memberships as well as
+memberships that have not renewed within the 12 months prior to the reporting date.
+Our membership was made up of the following (in thousands):
+Gold Star Business, including affiliates Total paid members 1
+Household cards 2024 2023 2022
+63,700 58,800 54,000
+12,500 12,200 11,800
+76,200 71,000 65,800
+60,600 56,900 53,100
+Total cardholders 136,800 127,900 118,900
+_______________
+(1) Executive members represented 35,400, 32,300, and 29,100 of total paid members in 2024, 2023, and 2022.
+Effective September 1, 2024, we increased our membership fees in the U.S. and Canada for Gold Star, Business, and Business affiliates to $65
+per year. The Executive membership fee increased from $120 to $130 (membership fee of $65, plus Executive upgrade of $65), and the
+maximum annual 2% reward associated with the Executive Membership increased from $1,000 to $1,250.Goodwill and Acquired Intangible Assets
+Goodwill represents the excess of acquisition cost over the fair value of the net assets acquired and is not subject to amortization. The Company
+reviews goodwill annually in the fourth quarter for impairment or when circumstances indicate carrying value may exceed the fair value. This
+evaluation is performed at the reporting unit level. If a qualitative assessment indicates that it is more likely than not that the fair value is less
+than carrying value, a quantitative analysis is completed using either the income or market approach, or a combination of both. The income
+approach estimates fair value based on expected discounted future cash flows, while the market approach uses comparable public companies
+and transactions to develop metrics to be applied to historical and expected future operating results.
+Goodwill is included in other long-term assets in the consolidated balance sheets. The following table summarizes goodwill by reportable
+segment:
+United States Canada Other International Total
+Balance at August 28, 2022 $ 953 $ 27 $ 13 $ 993
+Changes in currency translation —
+(1) 2 1
+Balance at September 3, 2023 $ 953 $ 26 $ 15 $ 994
+Changes in currency translation —
+—
+—
+—
+Balance at September 1, 2024 $ 953 $ 26 $ 15 $ 994
+Definite-lived intangible assets, which are immaterial, are included in other long-term assets on the consolidated balance sheets and are
+amortized on a straight-line basis over their estimated lives, which approximates the pattern of expected economic benefit.Note 8—Taxes
+Income Taxes
+Income before income taxes is comprised of the following:
+2024 2023 2022
+Domestic Total $ 7,255 $ 6,264 $ 5,759
+Foreign 2,485 2,223 2,081
+$ 9,740 $ 8,487 $ 7,840
+55
+Table of Contents
+The provisions for income taxes are as follows:
+Federal:
+Current $ Deferred Total federal State:
+Current Deferred Total state Foreign:
+Current Deferred Total foreign Total provision for income taxes $ 2,373 $ 2,195 $ 1,925
+2024 2023 2022
+1,245 $ 1,056 $ 798
+48 33 (35)
+1,293 1,089 763
+431 374 333
+(77) 10 (5)
+354 384 328
+798 732 851
+(72) (10) (17)
+726 722 834
+The reconciliation between the statutory tax rate and the effective rate for 2024, 2023, and 2022 is as follows:
+2024 2023 2022
+Federal taxes at statutory rate $ 2,045 21.0 % $ 1,782 21.0 % $ 1,646 21.0 %
+State taxes, net Foreign taxes, net Other Total 288 3.0 302 3.6 267 3.4
+109 1.1 160 1.9 231 3.0
+Employee stock ownership plan (ESOP) (120) (1.2) (25) (0.3) (23) (0.3)
+51 0.5 (24) (0.3) (196) (2.5)
+$ 2,373 24.4 % $ 2,195 25.9 % $ 1,925 24.6 %
+The Company's effective tax rate in 2024 included discrete tax benefits of $94 related to the portion of the special dividend payable through the
+Company's 401(k) plan, a net non-recurring tax benefit of $63 related to a transfer pricing settlement and certain true-ups of tax reserves, and
+$45 of excess tax benefits related to stock compensation. In 2023 and 2022, tax benefits of $54 and $94 were recognized related to stock
+compensation.
+56
+Table of Contents
+2024 2023
+Deferred tax assets:
+Equity compensation $ 96 $ 89
+Deferred income/membership fees 313 309
+Foreign tax credit carry forward 315 250
+Operating lease liabilities 678 678
+Accrued liabilities and reserves 873 761
+Other —
+20
+Total deferred tax assets 2,275 2,107
+Valuation allowance (494) (422)
+Total net deferred tax assets 1,781 1,685
+Deferred tax liabilities:
+Property and equipment (948) (867)
+Merchandise inventories (296) (380)
+Operating lease right-of-use assets (652) (655)
+Foreign branch deferreds (105) (87)
+Other (1) —
+Total deferred tax liabilities (2,002) (1,989)
+Net deferred tax liabilities $ (221) $ (304)
+The components of the deferred tax assets (liabilities) are as follows:
+The deferred tax accounts at the end of 2024 and 2023 include deferred income tax assets of $548 and $491, included in other long-term
+assets; and deferred income tax liabilities of $769 and $795, included in other long-term liabilities.
+In 2024 and 2023, the Company had valuation allowances of $494 and $422, primarily related to foreign tax credits that the Company believes
+will not be realized due to carry forward limitations. The foreign tax credit carryforwards are set to expire beginning in fiscal 2030.
+The Company generally no longer considers fiscal year earnings of non-U.S. consolidated subsidiaries (other than China) indefinitely reinvested
+after 2023, in the case of Taiwan, and after 2017, in the case of all other subsidiaries, and has recorded the estimated incremental foreign
+withholding taxes (net of available foreign tax credits) and state income taxes payable assuming a hypothetical repatriation to the U.S. The
+Company considers undistributed earnings of certain non-U.S. consolidated subsidiaries, which totaled $3,135, to be indefinitely reinvested and
+has not provided for withholding or state taxes.
+A reconciliation of the beginning and ending amount of gross unrecognized tax benefits for 2024 and 2023 is as follows:
+2024 2023
+Gross unrecognized tax benefit at beginning of year $ 16 $ 16
+Gross increases—current year tax positions 3 1
+Gross increases—tax positions in prior years 64 11
+Gross decreases—tax positions in prior years —
+(11)
+Lapse of statute of limitations (2) (1)
+Gross unrecognized tax benefit at end of year $ 81 $ 16
+57
+Table of Contents
+The gross unrecognized tax benefit includes tax positions for which the ultimate deductibility is highly certain but there is uncertainty about the
+timing of such deductibility. At the end of 2024 and 2023, these amounts were immaterial. Because of the impact of deferred tax accounting,
+other than interest and penalties, the disallowance of these tax positions would not affect the annual effective tax rate but would accelerate the
+payment of cash to the taxing authority. The total amount of such unrecognized tax benefits that if recognized would favorably affect the effective
+income tax rate in future periods is $79 and $14 at the end of 2024 and 2023.
+Accrued interest and penalties related to income tax matters are classified as a component of income tax expense. Accrued interest and
+penalties recognized during 2024 and 2023, and accrued at the end of each respective period were immaterial.
+The Company is currently under audit by several jurisdictions in the United States and abroad. Some audits may conclude in the next 12
+months, and the unrecognized tax benefits recorded in relation to the audits may differ from actual settlement amounts. It is not practical to
+estimate the effect, if any, of any amount of such change during the next 12 months to previously recorded uncertain tax positions in connection
+with the audits. The Company does not anticipate that there will be a material increase or decrease in the total amount of unrecognized tax
+benefits in the next 12 months.
+The Company files income tax returns in the United States, various state and local jurisdictions, in Canada, and in several other foreign
+jurisdictions. With few exceptions, the Company is no longer subject to U.S. federal, state or local examination for years before fiscal 2018. The
+Company is currently subject to examination in California for fiscal years 2013 to present.
+Other Taxes
+The Company is subject to multiple examinations for value added, sales-based, payroll, product, import or other non-income taxes in various
+jurisdictions. In certain cases, the Company has received assessments from the authorities. Possible losses or range of possible losses
+associated with these matters are either immaterial or an estimate of the possible loss or range of loss cannot be made at this time. If certain
+matters or a group of matters were to be decided adversely to the Company, it could result in a charge that might be material to the results of an
+individual fiscal quarter or year.Item 2—Properties
+Warehouse Properties
+At September 1, 2024, we operated 890 membership warehouses:
+Own Land
+and Building
+Lease Land
+and/or
+Building(1)
+Total
+United States and Puerto Rico 499 115 614
+Canada 91 17 108
+Other International 113 55 168
+Total 703 187 890
+
+_______________
+(1)134 of the 187 leases are land-only leases, where Costco owns the building.
+At the end of 2024, our warehouses contained approximately 130.9 million square feet of operating floor space: 91.1 million in the U.S.; 15.5 million in Canada; and 24.3 million in Other International. Total square feet associated with distribution and logistics facilities were approximately 31.9 million. Additionally, we operate various processing, packaging, manufacturing and other facilities to support our business, which includes the production of certain private-label items.Note 11—Segment Reporting
+The Company is principally engaged in the operation of membership warehouses through wholly owned subsidiaries in the U.S., Canada,
+Mexico, Japan, the U.K., Korea, Australia, Taiwan, China, Spain, France, Iceland, New Zealand, and Sweden. Reportable segments are largely
+based on management’s organization of the operating segments for operational decisions and assessments of financial performance, which
+considers geographic locations. The material accounting policies of the segments are as described in Note 1. Inter-segment net sales and
+expenses have been eliminated in computing total revenue and operating income.
+The following table provides information for the Company's reportable segments:
+United States Canada
+Other
+International Total
+2024
+Total revenue $ 184,143 $ 34,874 $ 35,436 $ 254,453
+Operating income 6,217 1,648 1,420 9,285
+Depreciation and amortization 1,730 192 315 2,237
+Additions to property and equipment 3,725 351 634 4,710
+Property and equipment, net 20,638 2,602 5,792 29,032
+Total assets 48,816 6,915 14,100 69,831
+2023
+Total revenue $ 176,630 $ 33,056 $ 32,604 $ 242,290
+Operating income 5,392 1,448 1,274 8,114
+Depreciation and amortization 1,599 183 295 2,077
+Additions to property and equipment 3,288 281 754 4,323
+Property and equipment, net 18,760 2,443 5,481 26,684
+Total assets 49,189 6,420 13,385 68,994
+2022
+Total revenue $ 165,294 $ 31,675 $ 29,985 $ 226,954
+Operating income 5,268 1,346 1,179 7,793
+Depreciation and amortization 1,436 180 284 1,900
+Additions to property and equipment 2,795 388 708 3,891
+Property and equipment, net 17,205 2,459 4,982 24,646
+Total assets 44,904 6,558 12,704 64,166RESULTS OF OPERATIONS
+Net Sales
+2024 2023 2022
+$ 249,625 $ 237,710 $ 222,730
+Net Sales Changes in net sales:
+U.S. Canada Total Company 4 % 7 % 17 %
+6 % 4 % 16 %
+Other International 9 % 9 % 10 %
+5 % 7 % 16 %
+(1)
+Changes in comparable sales :
+U.S. Canada Total Company 4 % 3 % 16 %
+7 % 2 % 15 %
+Other International 8 % 3 % 7 %
+5 % 3 % 14 %
+16 % (6)% 10 %
+E-commerce Changes in comparable sales excluding the impact of changes in foreign-
+(1)
+currency and gasoline prices :
+U.S. Canada Total Company 5 % 4 % 10 %
+8 % 8 % 12 %
+Other International 8 % 8 % 10 %
+6 % 5 % 11 %
+16 % (5)% 10 %
+E-commerce _______________
+(1) Comparable sales for 2024 were calculated using comparable retail weeks.
+Net Sales
+Net sales increased $11,915 or 5% during 2024. The improvement was attributable to an increase in comparable sales and sales at new
+warehouses opened in 2023 and 2024, partially offset by the impact of one less week of sales in 2024. Sales increased $10,639, or 6% in core
+merchandise categories, increasing in all categories. Sales increased $1,276, or 3% in warehouse ancillary and other businesses, led by
+pharmacy, partially offset by a decrease in gasoline.
+During 2024, the volume of gasoline sold increased approximately 1%, positively impacting net sales by $400, or 17 basis points, which includes
+the impact of one less week of sales in 2024. Lower gasoline prices negatively impacted net sales by $917, or 39 basis points, compared to
+2023, with a 3% decrease in the average price per gallon. Changes in foreign currencies relative to the U.S. dollar negatively impacted net sales
+by approximately $474, 20 basis points, compared to 2023, attributable to our Canadian and Other International operations.
+Comparable Sales
+Comparable sales increased 5% during 2024 and were positively impacted by an increase in shopping frequency, partially offset by a slight
+decrease in average ticket.
