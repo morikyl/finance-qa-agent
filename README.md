@@ -2,7 +2,7 @@
 
 A sophisticated multi-agent financial analysis platform that leverages OpenAI's Agent SDK to provide intelligent, tool-enabled financial question answering with hierarchical routing and comprehensive validation.
 
-## 🚀 Features
+## Features
 
 - **Multi-Agent Architecture**: Specialized agents for different types of financial questions
 - **Intelligent Question Routing**: Automatic classification and handoff to appropriate specialists
@@ -12,7 +12,7 @@ A sophisticated multi-agent financial analysis platform that leverages OpenAI's 
 - **Provenance Tracking**: Complete audit trail for all calculations and assumptions
 - **Async Execution**: High-performance asynchronous processing
 
-## 🏗️ System Architecture
+## System Architecture
 
 <img width="863" height="658" alt="image" src="https://github.com/user-attachments/assets/b777f47f-b60d-44a1-85bd-a9b8a7fb02f7" />
 
