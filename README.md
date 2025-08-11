@@ -34,9 +34,9 @@ This README provides a comprehensive overview of your FinanceQA OpenAI Agent Sys
 
 The README is structured to be both informative for developers and accessible for users who want to understand and use your system.
 
-## 🤔 Agent Types
+## Agent Types
 
-### 1. **Triage Agent** 🎯
+### 1. **Triage Agent** 
 - **Purpose**: Classifies incoming financial questions and routes them to appropriate specialists
 - **Categories**: 
   - **Tactical – Basic**: Directly answerable from provided data
@@ -46,7 +46,7 @@ The README is structured to be both informative for developers and accessible fo
 - **Output**: JSON classification with routing instructions
 - **Delegation**: Routes questions to appropriate specialized agents
 
-### 2. **Assumption Agent** 🧮
+### 2. **Assumption Agent** 
 - **Purpose**: Handles complex financial questions requiring assumptions, estimates, and multi-step calculations
 - **Workflow**:
   1. **Phase 1**: Generate complete plan with formula validation
@@ -56,21 +56,21 @@ The README is structured to be both informative for developers and accessible fo
 - **Output**: Structured JSON with complete calculation tree and provenance
 - **Access**: Full access to both search tools for comprehensive analysis
 
-### 3. **Basic Agent** 📊
+### 3. **Basic Agent** 
 - **Purpose**: Handles straightforward financial questions answerable directly from context
 - **Capabilities**: Direct data extraction, simple calculations, ratio computations
 - **Tools**: File Search Tool, Web Search Tool
 - **Output**: JSON with direct answers and calculations
 - **Access**: Uses both tools to validate data and verify calculations
 
-### 4. **Conceptual Agent** 📚
+### 4. **Conceptual Agent** 
 - **Purpose**: Answers questions about financial concepts, definitions, and methodologies
 - **Capabilities**: Concept explanations, methodology descriptions, relationship analysis
 - **Tools**: File Search Tool, Web Search Tool
 - **Output**: JSON with conceptual explanations and examples
 - **Access**: Uses tools to research authoritative definitions and validate concepts
 
-### 5. **Critic Agent** 🔍
+### 5. **Critic Agent** 
 - **Purpose**: Provides critical review and validation of other agents' analyses
 - **Responsibilities**: Data accuracy verification, calculation validation, logical soundness assessment
 - **Tools**: File Search Tool, Web Search Tool
